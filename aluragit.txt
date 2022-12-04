@@ -1,1 +1,2 @@
-Aula aluca sobre git github "Primeirocommit".
+Aula alura sobre git github "Primeirocommit".
+Correção notexto.

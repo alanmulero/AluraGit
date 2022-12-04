@@ -1,4 +1,7 @@
 Aula alura sobre git github "Primeirocommit".
-Correção notexto.
+Correção no texto.
 Mudança no branch.
 novo branch lista
+//Usando branch lista
+Criando nova linha e lista.
+
